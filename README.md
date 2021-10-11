@@ -1,1 +1,1 @@
-https://basil-panasiuk.github.io/adaptiv/#sign-in
+https://basil-panasiuk.github.io/travel-site/
